@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,stream-link.org
+DOMAIN-SUFFIX,nebula-media.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
