@@ -2,6 +2,17 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,wd-gold.com
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,stream-link.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
