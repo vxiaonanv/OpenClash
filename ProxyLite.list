@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,playfabapi.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,nebula-media
+DOMAIN-KEYWORD,pixamn
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
