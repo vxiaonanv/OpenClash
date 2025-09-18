@@ -9,19 +9,19 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
-DOMAIN-SUFFIX,dnsany.com,DIRECT
-DOMAIN-SUFFIX,cmvideo.cn,DIRECT
-DOMAIN-SUFFIX,chinamobile.com,DIRECT
-DOMAIN-SUFFIX,mobaibox.com,DIRECT
-DOMAIN-SUFFIX,gitv.tv,DIRECT
-DOMAIN-SUFFIX,cctv.cn,DIRECT
-DOMAIN-SUFFIX,yangshipin.cn,DIRECT
+DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,mobaibox.com
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,yangshipin.cn
 IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
-DOMAIN-KEYWORD,iill,DIRECT
-DOMAIN-SUFFIX,tvb.com,DIRECT
-DOMAIN-SUFFIX,80166.com,DIRECT
-DOMAIN-SUFFIX,oracle.com,DIRECT
-DOMAIN-SUFFIX,hkdvb.com,DIRECT
+DOMAIN-KEYWORD,iill.top
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,80166.com
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,hkdvb.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
