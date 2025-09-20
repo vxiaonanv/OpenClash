@@ -1,0 +1,169 @@
+# NAME: HamiVideo
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 4
+#payload:
+    - DOMAIN-SUFFIX,hinet,🇹🇼 台湾节点
+    - DOMAIN-KEYWORD,hamivideo,🇹🇼 台湾节点
+    - DOMAIN-SUFFIX,4gtv.tv,🇹🇼 台湾节点
+    - DOMAIN-SUFFIX,cdn.hinet.net,🇹🇼 台湾节点
+    - DOMAIN-SUFFIX,akamaized,🇹🇼 台湾节点
+    - DOMAIN-SUFFIX,cdn.hinet.net,🇹🇼 台湾节点
+    - DOMAIN-SUFFIX,akamaized.net,🇹🇼 台湾节点
+    - DOMAIN-SUFFIX,ofissaifreepc.akamaized.net,🇹🇼 台湾节点
+    - DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net,🇹🇼 台湾节点
+    - DOMAIN-SUFFIX,4gtvfree-cds.cdn.hinet.net,🇹🇼 台湾节点
+    - DOMAIN-SUFFIX,4gtvfree-mozai.4gtv.tv,🇹🇼 台湾节点
+    - DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net,🇹🇼 台湾节点
+
+# NAME: TVB
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/btjson/loon/
+# UPDATED: 2024-07-22 11:11:11
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 18
+# USER-AGENT: 2
+# TOTAL: 23
+DOMAIN,bcbolt446c5271-a.akamaihd.net,🚀 默认代理
+DOMAIN,edge.api.brightcove.com,🚀 默认代理
+DOMAIN,tvbtracking.azurewebsites.net,🚀 默认代理
+DOMAIN-SUFFIX,mytvsuper.com.mp,🚀 默认代理
+DOMAIN-SUFFIX,bigbigchannel.com.hk,🚀 默认代理
+DOMAIN-SUFFIX,bigbigshop.com,🚀 默认代理
+DOMAIN-SUFFIX,content.jwplatform.com,🚀 默认代理
+DOMAIN-SUFFIX,encoretvb.com,🚀 默认代理
+DOMAIN-SUFFIX,mytvsuper.com,🚀 默认代理
+DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net,🚀 默认代理
+DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net,🚀 默认代理
+DOMAIN-SUFFIX,tvb.com,🚀 默认代理
+DOMAIN-SUFFIX,tvb.com.au,🚀 默认代理
+DOMAIN-SUFFIX,tvbanywhere.com,🚀 默认代理
+DOMAIN-SUFFIX,tvbanywhere.com.sg,🚀 默认代理
+DOMAIN-SUFFIX,tvbc.com.cn,🚀 默认代理
+DOMAIN-SUFFIX,tvbeventpower.com.hk,🚀 默认代理
+DOMAIN-SUFFIX,docker.mytvsuper.us.kg,🚀 默认代理
+DOMAIN-SUFFIX,tvbusa.com,🚀 默认代理
+DOMAIN-SUFFIX,tvbweekly.com,🚀 默认代理
+DOMAIN-SUFFIX,tvmedia.net.au,🚀 默认代理
+DOMAIN-SUFFIX,videos-f.jwpsrv.com,🚀 默认代理
+DOMAIN-SUFFIX,567852.xyz,🚀 默认代理
+DOMAIN-SUFFIX,console.567852.xyz,🚀 默认代理
+DOMAIN-SUFFIX,youboranqs01.com,🚀 默认代理
+DOMAIN-SUFFIX,tvmedia.net.au,🚀 默认代理
+DOMAIN-SUFFIX,tvmedia.net.au,🚀 默认代理
+DOMAIN-SUFFIX,mytvb.livednow.us.kg,🚀 默认代理
+DOMAIN-SUFFIX,edgeware.tvb.com,🚀 默认代理
+DOMAIN-SUFFIX,beesport.livednow.com,🚀 默认代理
+DOMAIN-SUFFIX,assets.livednow.com,🚀 默认代理
+DOMAIN-SUFFIX,mytvsuper.us.kg,🚀 默认代理
+DOMAIN-SUFFIX,mainserver.567852.xyz,🚀 默认代理
+DOMAIN-SUFFIX,*.mytvsuper.us.kg,🚀 默认代理
+USER-AGENT,encoreTVB*,🚀 默认代理
+USER-AGENT,mytv*,🚀 默认代理
+
+# NAME: ASTRO
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 4
+#payload:
+    - DOMAIN-SUFFIX,*.mydiver.eu.org,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,githubusercontent.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,unifi.com.my,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,hypp.tv,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,secureswiftcontent.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,nocookie.net,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,verspective.net,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,cloudfront.net,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,astro.com.my,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,adaptive.stream,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,sooka.my,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,wanicelife.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,wikimedia.org,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,iili.io,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,telegra.ph,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,didik.tv,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,fastly.net,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,tonton.com.my,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,astradamy.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,postimg.cc,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,mncnow.id,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,mooncang.my.id,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,rctiplus.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,ibb.co,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,nucdn.net,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,iptvcat.net,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,rcti.id,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,trans7.co.id,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,pinimg.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,wurl.tv,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,globenewswire.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,amagi.tv,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,fightsports.us,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,fightsports.tv,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,starhubgo.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,imgur.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,toffeelive.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,speedtrademarket.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,glueapi.io,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,akamaihd.net,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,lfctv.uk,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,vidiocdn.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,dazn.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,streamstak.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,cdn77.org,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,googleusercontent.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,livesoccertv.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,barcatv.es,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,footprint.net,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,lionsgatechannels.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,sysln.id,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,indihometv.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,amazonaws.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,perfecttv.net,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,kaltura.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,transvision.co.id,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,aqfadtv.xyz,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,danng.me,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,gstatic.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,tmdb.org,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,is.gd,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,workers.dev,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,nflxso.net,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,tinyurl.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,visionplus.id,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,wakutv.site,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,cloudflareclient.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,cloudflare.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,gates.cloudflare.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,dash.cloudflare.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,sparrow.cloudflare.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,platform.dash.cloudflare.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,time.cloudflare.com,🇸🇬 狮城节点
+    - DOMAIN-SUFFIX,csp-reporting.cloudflare.com,🇸🇬 狮城节点
+
+# NAME: Hlove
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 4
+#payload:
+    - DOMAIN-KEYWORD,hlove,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,hlove.tv,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,docker.com,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,hub.docker.com,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,iptv200.com,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,ymedium.top,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,mytvsuper.com.mp,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,mytvsuper.us.kg,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,gditv.us.kg,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,creativehub.sbs,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,plusai.me,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,akile.io,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,livednow.dpdns.org,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,4gtv.livednow.dpdns.org,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,docker.livednow.dpdns.org,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,www.livednow.dpdns.org,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,pendy.dpdns.org,🇭🇰 香港节点
+    - DOMAIN-SUFFIX,smart.pendy.dpdns.org,🇭🇰 香港节点
