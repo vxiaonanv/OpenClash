@@ -1,6 +1,7 @@
 # 代理补充列表
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,iill.top
 DOMAIN-SUFFIX,fanmingming.com
 DOMAIN-SUFFIX,fanmingming.cn
 DOMAIN-SUFFIX,qichiyu.com
@@ -16,7 +17,6 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,nebula-media.org
-DOMAIN-SUFFIX,fanmingming.com
 DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,playfabapi.com
