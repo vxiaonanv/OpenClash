@@ -1,7 +1,6 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-KEYWORD,iill.top
 DOMAIN-SUFFIX,fanmingming.com
 DOMAIN-SUFFIX,fanmingming.cn
 DOMAIN-SUFFIX,qichiyu.com
@@ -23,6 +22,7 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,playfabapi.com
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,iill
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,nebula-media
 DOMAIN-KEYWORD,pixamn
