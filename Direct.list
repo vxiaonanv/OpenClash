@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,yangshipin.cn
 IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
 DOMAIN-SUFFIX,80166.com
 DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,hkdvb.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
