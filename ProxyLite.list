@@ -1,10 +1,10 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,ouonetwork.org
-DOMAIN-SUFFIX,ouonetwork.com
-DOMAIN-SUFFIX,ouonet.work
-DOMAIN-SUFFIX,ouonetwork.shop
+#DOMAIN-SUFFIX,ouonetwork.org
+#DOMAIN-SUFFIX,ouonetwork.com
+#DOMAIN-SUFFIX,ouonet.work
+#DOMAIN-SUFFIX,ouonetwork.shop
 DOMAIN-SUFFIX,yang-1989.eu.org
 DOMAIN-SUFFIX,iill.top
 DOMAIN-SUFFIX,fanmingming.com
